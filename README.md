@@ -1,3 +1,3 @@
 # somedata
 
-Some data borrowed from DS6001 UVA. 
+Some data are borrowed from DS6001 UVA. 
